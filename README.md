@@ -1,1 +1,2 @@
 # CS0401_EarlyOOP
+This was a project I did at UPitt for CS0401, Intermediate Programming with Java. This was one of my earliest introductions to Object-Oriented Programming, and it is a simple program utilizing all for of the OOP concepts (abstraction, encapsulation, inheritance and polymorphism). Motorcycle, Truck, and Car are all subclasses of Vehicle, and the program reads in a list of vehicles and creates these objects accordingly, all of which must have different data associated with them. 
